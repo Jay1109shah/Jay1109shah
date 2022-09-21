@@ -1,4 +1,4 @@
-My Name is Jay Shah, senior undergraduate in Chemical Engineering at IIT Gandhinagar.
+My Name is Jay Shah.
 
 👀 I’m interested in computational chemical engineering
 
